@@ -1,3 +1,18 @@
-index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Relatório</title>
+</head>
+<body>
+  <h1>Meu Gráfico</h1>
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/9b38b427-15ec-4f84-9547-915f22fba1b4/page/p_l6t5s650ud" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+  <iframe 
+    src="<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/9b38b427-15ec-4f84-9547-915f22fba1b4/page/p_l6t5s650ud" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>" 
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
